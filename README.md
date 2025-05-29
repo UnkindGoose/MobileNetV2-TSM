@@ -33,4 +33,4 @@ Repository contains pretrained model in saved_model and tflite formats. You migh
 
 #### Confusion matrix of current implementation:
 
-<img alt="Confusion Matrix" src="./out.png" width="1024" />
+<img alt="Confusion Matrix" src="./confusion_matrix.png" width="1024" />
