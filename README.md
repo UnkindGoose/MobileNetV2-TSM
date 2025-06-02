@@ -41,7 +41,7 @@ Repository contains pretrained model in saved_model and tflite formats. You migh
 
 Models are located inside [./models](./models) folder.
 
-Current implementation has 53.5% accuracy on test data. The most problematic gestures are ones that resemble another gesture, like "Ш" and "Щ" or "Е" and "Ё".
+Current implementation has 54.5% accuracy on test data. The most problematic gestures are ones that resemble another gesture, like "Ш" and "Щ" or "Е" and "Ё".
 
 Confusion matrix of current implementation:
 
